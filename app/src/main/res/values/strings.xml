@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">HIGHQ</string>
+    <string name="app_tagline">Better Videos. Higher Quality.</string>
+    <string name="welcome_headline">Turn Moments Into Masterpieces</string>
+    <string name="welcome_subheadline">Enhance. Upscale. Restore.</string>
+    <string name="welcome_desc">Make your videos look their best.</string>
+    <string name="continue_with_google">Continue with Google</string>
+    <string name="continue_with_email">Continue with Email</string>
+    <string name="made_with_love">Made with love by Rahul Shah</string>
+</resources>

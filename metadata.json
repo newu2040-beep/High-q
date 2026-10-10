@@ -1,0 +1,6 @@
+{
+  "name": "HIGHQ",
+  "description": "Premium Video Quality Enhancer. Enhance, upscale, restore, and export videos with cinematic quality.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
